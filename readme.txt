@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: contri
+Contributors: awstheme
 Donate link: http://awstheme.com/
 Tags: slideshow, gallery, images, image
 Requires at least: 4.0
