@@ -18,7 +18,6 @@ http://demo.awstheme.com/aws-slideshow
 AWS Slideshow make and manage slideshow helping you make creative slideshow be very easy. With shortcode you can place slideshow anywhere in your site.
 
 Features:
-
 *   Workspace is easy for building slideshows
 *   Many effects are adapted to your tasks
 *   All effects is make by CSS3 supporting mordern browser
@@ -54,4 +53,5 @@ Yes, you can align elements by holding shift and select elements.
 1. The infomation of element
 1. Settings
 
+== Docs & Support ==
 To report bugs or feature requests, please visiting [AWS Slideshow support](http://awstheme.com/support "AWS Slideshow support").
