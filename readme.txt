@@ -18,6 +18,7 @@ http://demo.awstheme.com/aws-slideshow
 AWS Slideshow make and manage slideshow helping you make creative slideshow be very easy. With shortcode you can place slideshow anywhere in your site.
 
 Features:
+
 *   Workspace is easy for building slideshows
 *   Many effects are adapted to your tasks
 *   All effects is make by CSS3 supporting mordern browser
