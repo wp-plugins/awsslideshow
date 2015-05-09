@@ -12,9 +12,6 @@ AWS Slideshow for building creative slideshows
 
 == Description ==
 
-Check official website for live demo
-http://demo.awstheme.com/aws-slideshow
-
 AWS Slideshow make and manage slideshow helping you make creative slideshow be very easy. With shortcode you can place slideshow anywhere in your site.
 
 Features:
@@ -26,9 +23,22 @@ Features:
 *   Optimization for SEO and speed
 *   Unlimited amount of images to be added to the slider
 
+Video Guide:
+
+[youtube https://www.youtube.com/watch?v=vfx99-SuXxc]
+
+Check official website for live demo
+http://demo.awstheme.com/aws-slideshow
+
+To report bugs or feature requests, please visiting [AWS Slideshow support](http://awstheme.com/support "AWS Slideshow support").
+
 == Installation ==
 
 Installing the awsslideshow plugin is very easy. Simply follow the steps below.
+
+Method 1: Install Slideshow via the WordPress.org plugin directory ( recommended )
+
+Method 2: Uploading the files to your server
 
 1. Extract the package to obtain the `awsslideshow` folder
 1. Upload `awsslideshow` to the `/wp-content/plugins/` directory
@@ -53,6 +63,3 @@ Yes, you can align elements by holding shift and select elements.
 1. Elements which AWS Slideshow support
 1. The infomation of element
 1. Settings
-
-== Docs & Support ==
-To report bugs or feature requests, please visiting [AWS Slideshow support](http://awstheme.com/support "AWS Slideshow support").
